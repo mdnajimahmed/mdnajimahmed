@@ -45,7 +45,7 @@ I solve computational problems and I have solved more than 2000 problems in abou
 ### Professional Certifications
 [<img align="left" width="100px"  alt="Visual Studio Code" src="./AWS-CloudPractitioner-2020.png" />][acp]
 
-[<img align="left" width="95px"  alt="Visual Studio Code" src="./AWS-SolArchitect-Associate-2020.png" />][saa]
+[<img align="left" width="100px"  alt="Visual Studio Code" src="./AWS-SolArchitect-Associate-2020.png" />][saa]
 
 
 [acp]: https://www.credly.com/badges/b1282f55-c316-4e7a-bed1-25a7ee6dab79/public_url

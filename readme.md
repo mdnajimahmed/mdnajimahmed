@@ -1,19 +1,15 @@
  ### Bio
  Hi there, I am Md Najim Ahmed. I am from Bangladesh,currenlty living in Kuala Lumpur,Malaysia.
-<br />
-<br />
 
 ---
+
  ### IT Career
  I am working as a professional software engineer since 2014 with a diverse set of engineering technologies like Spring Cloud, AWS, PostgreSQL, MySQL, MongoDB, Redis, RabbitMQ, Websocket, ASP.NET Web API, AngularJS, ReactJS etc. My primary area of expertise is to develop line of business transactional applciation for business autoamtion.
-<br />
-<br />
 
 ---
+
 ### Current Role
 Senior Java Developer - Petronas ICT SDN BHD
-<br />
-<br />
 
 ---
 ### Languages :
@@ -21,15 +17,11 @@ Senior Java Developer - Petronas ICT SDN BHD
 - Golang
 - Python
 - Nodejs
-<br />
-<br />
 
 ---
 ### Frameworks:
 - Spring
 - ReactJS
-<br />
-<br />
 
 ---
 ### Tools
@@ -37,8 +29,6 @@ Senior Java Developer - Petronas ICT SDN BHD
 - Goland
 - Pycharm
 - Vscode
-<br />
-<br />
 
 ---
 ### Professional Certifications
@@ -46,6 +36,10 @@ Senior Java Developer - Petronas ICT SDN BHD
 
 [<img align="left" width="100px"  alt="Visual Studio Code" src="./AWS-SolArchitect-Associate-2020.png" />][saa]
 
+<br />
+<br />
+<br />
+<br />
 <br />
 <br />
 
@@ -65,12 +59,11 @@ I solve computational problems and I have solved more than 2000 problems in abou
 ### Academic portfolio
 - Bachelor of Scince and Engineering - Jahangirnagar University
 - CGPA : 3.18/4.00
-<br />
-<br />
+- Worked as Teaching Assistance from Feb,2011 - Jun,2013
 
 ---
 ### English Profiecieny
-- Score : 7.00 , CEFR Level - C1 , Mode - Acedmic , Date - 2019-09-28
+- Score : 7.00 , CEFR Level - C1 , Mode - Acedmic , Date - 28 September, 2019
 
 
 [acp]: https://www.credly.com/badges/b1282f55-c316-4e7a-bed1-25a7ee6dab79/public_url

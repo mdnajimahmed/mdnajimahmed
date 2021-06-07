@@ -70,7 +70,7 @@ I have solved more than 2000 data structure and algorithm related problems in ab
 ### English Profiecieny
 - Score : 7.00 , CEFR Level - C1 , Mode - Acedmic , Date - 28 September, 2019
 
-
+---
 ### Connect with me
 [<img align="left" width="100px" height="100px" alt="Visual Studio Code" src="./linkedin.png" style="margin:5px"/>][linkedin]
 
@@ -90,7 +90,7 @@ I have solved more than 2000 data structure and algorithm related problems in ab
 <br/>
 <br/>
 
-
+---
 ### Want to play a game of Chess with me?
 
 [<img align="left" width="100px" height="100px" alt="Visual Studio Code" src="./chesdotcom.png" style="margin:5px"/>][chessdotcom]

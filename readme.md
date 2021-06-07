@@ -1,10 +1,10 @@
 
- ### Hi there, I am Md Najim Ahmed, from Bangladesh. Currently I am working as a Senior Java Developer at Petronas ICT SDN BHD,Malaysia which has given me the amazing opprtunity to live in Kuala Lumpur. Welcome to my github profile :slightly_smiling_face:
+ ### Hi there, I am Md Najim Ahmed, from Bangladesh. Currently I am living in Kuala Lumpur and working as a Senior Java Developer at Petronas ICT SDN BHD,Malaysia. Welcome to my github profile :slightly_smiling_face:
 
 <br/>
 
  ### Career Overview
- I am working as a professional software engineer since 2014 with a diverse set of technologies like Spring Cloud, AWS, PostgreSQL, MySQL, MongoDB, Redis, RabbitMQ, Websocket, ASP.NET Web API, AngularJS, ReactJS etc. My primary area of expertise is to develop line of business transactional applciation for workflow autoamtion.
+As a professional software engineer, since 2014, I have been part of many IT teams, played various roles and worked with a diverse set of technologies like Spring Cloud, AWS, PostgreSQL, MySQL, MongoDB, Redis, RabbitMQ, Websocket, ASP.NET Web API, ReactJS, AngularJS 1.x  etc. My primary area of expertise is to develop line of business transactional applciations for workflow autoamtion. Technically, I am more into backend(System design,DevOps,Data analysis etc) than front end.
 
 ---
 ### Progrmaming Languages :
@@ -12,13 +12,9 @@
 - Golang (Hobby/Secondary)
 - Python (Hobby/Necessity)
 - Nodejs (Hobby/Necessity)
-- C# (Worked between 2014-2017, Abandoned)
-- C++ (Used for doing Competitive programming/Abandoned)
----
-### Frameworks:
-- Spring
-- ReactJS
-- AngularJS 1.x
+- C# (Used between years 2014-2017, Abandoned)
+- C++ (Used between year 2009-2015 as hobby/competitive programming,Abandoned)
+
 ---
 ### Tools
 - Intellij IDEA

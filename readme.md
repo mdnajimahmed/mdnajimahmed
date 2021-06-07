@@ -1,19 +1,19 @@
 
- ### Hi there, I am Md Najim Ahmed, from Bangladesh. Currently I am living in Kuala Lumpur and working as a Senior Java Developer at Petronas ICT SDN BHD,Malaysia. Welcome to my github profile :slightly_smiling_face:
+ ### Hi there, I am Md Najim Ahmed, from Bangladesh. Currently, I am living in Kuala Lumpur and working as a Senior Java Developer at Petronas ICT SDN BHD, Malaysia. Welcome to my GitHub profile :slightly_smiling_face:
 
 <br/>
 
  ### Career Overview
-As a professional software engineer, since 2014, I have been part of many IT teams, played various roles and worked with a diverse set of technologies like Spring Cloud, AWS, PostgreSQL, MySQL, MongoDB, Redis, RabbitMQ, Websocket, ASP.NET Web API, ReactJS, AngularJS 1.x  etc. My primary area of expertise is to develop line of business transactional applciations for workflow autoamtion. Technically, I am more into backend(System design,DevOps,Data analysis etc) than front end.
+As a professional software engineer, since 2014, I have been part of many IT teams, played various roles and worked with a diverse set of technologies like Spring Cloud, AWS, PostgreSQL, MySQL, MongoDB, Redis, RabbitMQ, Websocket, ASP.NET Web API, ReactJS, AngularJS 1.x  etc. My primary area of expertise is to develop line-of-business transactional applications for workflow automation. Technically, I am more into the backend(System design, DevOps, Data analysis etc) than the front end.
 
 ---
-### Progrmaming Languages 
+### Programming Languages 
 - Java (Primary)
 - Golang (Hobby/Secondary)
 - Python (Hobby/Necessity)
 - Nodejs (Hobby/Necessity)
 - C# (Used between years 2014-2017, Abandoned)
-- C++ (Used between year 2009-2015 as hobby/competitive programming,Abandoned)
+- C++ (Used between years 2009-2015 as hobby/competitive programming, Abandoned)
 
 ---
 ### Tools
@@ -62,8 +62,8 @@ I have solved more than 2000 data structure and algorithm related problems in ab
 
 ---
 ### Academic profile
-- Bachelor of Scince and Engineering - Jahangirnagar University
-- CGPA : 3.18/4.00
+- Bachelor of Science and Engineering - Jahangirnagar University
+- CGPA: 3.18/4.00
 - Worked as `Teaching Assistance` from Feb,2011 - Jun,2013
 
 ---
@@ -91,7 +91,7 @@ I have solved more than 2000 data structure and algorithm related problems in ab
 <br/>
 
 ---
-### Want to play a game of Chess with me?
+### Want to play a game of chess with me?
 
 [<img align="left" width="100px" height="100px" alt="Visual Studio Code" src="./chesdotcom.png" style="margin:5px"/>][chessdotcom]
 

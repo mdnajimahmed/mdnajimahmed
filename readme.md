@@ -108,5 +108,5 @@ I have solved more than 2000 data structure and algorithm related problems in ab
 [twitter]: https://twitter.com/najim_ju
 [youtube]: https://www.youtube.com/channel/UCHuSJ4mGoDghC-ns7xvrG0A
 [email]: mailto:najim.ju@gmail.com
-[lichess]: https://www.chess.com/member/najimahmed4689
-[chessdotcom]: https://lichess.org/@/najim4689
+[lichess]: https://lichess.org/@/najim4689
+[chessdotcom]: https://www.chess.com/member/najimahmed4689

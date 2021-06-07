@@ -7,7 +7,7 @@
 As a professional software engineer, since 2014, I have been part of many IT teams, played various roles and worked with a diverse set of technologies like Spring Cloud, AWS, PostgreSQL, MySQL, MongoDB, Redis, RabbitMQ, Websocket, ASP.NET Web API, ReactJS, AngularJS 1.x  etc. My primary area of expertise is to develop line of business transactional applciations for workflow autoamtion. Technically, I am more into backend(System design,DevOps,Data analysis etc) than front end.
 
 ---
-### Progrmaming Languages :
+### Progrmaming Languages 
 - Java (Primary)
 - Golang (Hobby/Secondary)
 - Python (Hobby/Necessity)
@@ -21,6 +21,7 @@ As a professional software engineer, since 2014, I have been part of many IT tea
 - Goland
 - PyCharm
 - Visual Studio Code
+- And many many more ... 
 
 ---
 ### Professional Certifications
@@ -70,7 +71,7 @@ I have solved more than 2000 data structure and algorithm related problems in ab
 - Score : 7.00 , CEFR Level - C1 , Mode - Acedmic , Date - 28 September, 2019
 
 
-### Connect with me:
+### Connect with me
 [<img align="left" width="100px" height="100px" alt="Visual Studio Code" src="./linkedin.png" style="margin:5px"/>][linkedin]
 
 [<img align="left" width="100px" height="100px" alt="Visual Studio Code" src="./whatsapp.png" style="margin:5px"/>][wa]
@@ -83,6 +84,18 @@ I have solved more than 2000 data structure and algorithm related problems in ab
 
 [<img align="left" width="100px" height="100px" alt="Visual Studio Code" src="./youtube.jpg" style="margin:5px"/>][youtube]
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+### Want to play a game of Chess with me?
+
+[<img align="left" width="100px" height="100px" alt="Visual Studio Code" src="./chesdotcom.png" style="margin:5px"/>][chessdotcom]
+
+[<img align="left" width="100px" height="100px" alt="Visual Studio Code" src="./lichess.png" style="margin:5px"/>][lichess]
 
 [acp]: https://www.credly.com/badges/b1282f55-c316-4e7a-bed1-25a7ee6dab79/public_url
 [saa]: https://www.credly.com/badges/6fb754a4-c4f3-41f3-922e-7698e0d3feb7/public_url
@@ -95,3 +108,5 @@ I have solved more than 2000 data structure and algorithm related problems in ab
 [twitter]: https://twitter.com/najim_ju
 [youtube]: https://www.youtube.com/channel/UCHuSJ4mGoDghC-ns7xvrG0A
 [email]: mailto:najim.ju@gmail.com
+[lichess]: https://www.chess.com/member/najimahmed4689
+[chessdotcom]: https://lichess.org/@/najim4689

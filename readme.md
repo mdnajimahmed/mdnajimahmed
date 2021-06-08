@@ -11,7 +11,7 @@ As a professional software engineer, since 2014, I have been part of many IT tea
 - Java (Primary)
 - Golang (Hobby/Secondary)
 - Python (Hobby/Necessity)
-- Nodejs (Hobby/Necessity)
+- JavaScript (Hobby/Necessity)
 - C# (Used between years 2014-2017, Abandoned)
 - C++ (Used between years 2009-2015 as hobby/competitive programming, Abandoned)
 

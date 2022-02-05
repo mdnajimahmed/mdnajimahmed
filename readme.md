@@ -1,5 +1,5 @@
 
- ### Hi there, I am Md Najim Ahmed, from Bangladesh. Currently, I am living in Kuala Lumpur and working as a Senior Java Developer at Petronas ICT SDN BHD, Malaysia. Welcome to my GitHub profile :slightly_smiling_face:
+ ### Hi there, I am Md Najim Ahmed. I live in Kuala Lumpur and work as a Senior Java Developer at Petronas ICT SDN BHD, Malaysia. Feel free to reach me to talk about software enginnering, Java/Spring, AWS , idea/innovation or even for a game of chess! :slightly_smiling_face:
 
 <br/>
 
@@ -8,12 +8,12 @@ As a professional software engineer, since 2014, I have been part of many IT tea
 
 ---
 ### Programming Languages 
-- Java (Primary)
-- Golang (Hobby/Secondary)
-- Python (Hobby/Necessity)
-- JavaScript (Hobby/Necessity)
-- C# (Used between years 2014-2017 at job, Abandoned)
-- C++ (Used between years 2009-2015 as hobby/competitive programming, Abandoned)
+- Java (Primary, Using at job since 2018)
+- Golang (Secondary/Hobby - Using it for personal projects since 2021)
+- Python (Hobby/Necessity - Occassionally using it at job since 2020)
+- JavaScript (Used between years 2014-2019 for front end development at job) 
+- C# (Used between years 2014-2017 at job)
+- C++ (Used between years 2009-2015 as hobby/competitive programming)
 
 ---
 ### Tools

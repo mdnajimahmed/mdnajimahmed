@@ -8,9 +8,9 @@ As a professional software engineer, since 2014, I have been part of many IT tea
 
 ---
 ### Programming Languages 
-- Java (Primary, Using at job since 2018)
-- Golang (Secondary/Hobby - Using it for personal projects since 2021)
-- Python (Hobby/Necessity - Occassionally using it at job since 2020)
+- Java (Primary - Using at job since 2018)
+- Golang (Secondary/Hobby - Using at my personal projects since 2021)
+- Python (Occassionally using it at job since 2020)
 - JavaScript (Used between years 2014-2019 for front end development at job) 
 - C# (Used between years 2014-2017 at job)
 - C++ (Used between years 2009-2015 as hobby/competitive programming)

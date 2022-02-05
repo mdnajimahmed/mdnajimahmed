@@ -1,5 +1,5 @@
 
- ### Hi there, I am Md Najim Ahmed. I live in Kuala Lumpur and work as a Senior Java Developer at PETRONAS ICT SDN BHD, Malaysia. Feel free to reach me to talk about software enginnering, Java/Spring, AWS , idea/innovation or even for a game of chess! :slightly_smiling_face:
+ ### Hi there, I am Md Najim Ahmed. I live in Kuala Lumpur and work as a Senior Java Developer at PETRONAS ICT SDN BHD, Malaysia. Feel free to reach me to talk about SWE, Java/Spring, AWS , Idea/Innovation/Leadership or even for a game of chess! :slightly_smiling_face:
 
 <br/>
 

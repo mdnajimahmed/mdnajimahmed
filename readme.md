@@ -1,13 +1,15 @@
-
- ### Hi there, I am Md Najim Ahmed, from Bangladesh. Currently, I am living in Kuala Lumpur and working as a Senior Java Developer at Petronas ICT SDN BHD, Malaysia. Welcome to my GitHub profile :slightly_smiling_face:
+### Hi there, I am Md Najim Ahmed, from Bangladesh. Currently, I am living in Kuala Lumpur and working as a Senior Java Developer at Petronas ICT SDN BHD, Malaysia. Welcome to my GitHub profile :slightly_smiling_face:
 
 <br/>
 
- ### Career Overview
-As a professional software engineer, since 2014, I have been part of many IT teams, played various roles and worked with a diverse set of technologies like Spring Cloud, AWS, PostgreSQL, MySQL, MongoDB, Redis, RabbitMQ, Websocket, ASP.NET Web API, ReactJS, AngularJS 1.x  etc. My primary area of expertise is to develop line-of-business transactional applications for workflow automation. Technically, I am more into the backend(System design, DevOps, Data analysis etc) than the front end.
+### Career Overview
+
+As a professional software engineer, since 2014, I have been part of many IT teams, played various roles and worked with a diverse set of technologies like Spring Cloud, AWS, PostgreSQL, MySQL, MongoDB, Redis, RabbitMQ, Websocket, ASP.NET Web API, ReactJS, AngularJS 1.x etc. My primary area of expertise is to develop line-of-business transactional applications for workflow automation. Technically, I am more into the backend(System design, DevOps, Data analysis etc) than the front end.
 
 ---
-### Programming Languages 
+
+### Programming Languages
+
 - Java (Primary)
 - Golang (Hobby/Secondary)
 - Python (Hobby/Necessity)
@@ -16,19 +18,24 @@ As a professional software engineer, since 2014, I have been part of many IT tea
 - C++ (Used between years 2009-2015 as hobby/competitive programming, Abandoned)
 
 ---
+
 ### Tools
+
 - Intellij IDEA
 - Goland
 - PyCharm
 - Visual Studio Code
-- And many many more ... 
+- And many many more ...
 
 ---
+
 ### Professional Certifications
+
 [<img align="left" width="100px"  alt="Visual Studio Code" src="./AWS-CloudPractitioner-2020.png" />][acp]
 
 [<img align="left" width="100px"  alt="Visual Studio Code" src="./AWS-SolArchitect-Associate-2020.png" />][saa]
 
+[<img align="left" width="100px"  alt="AWS Certified Developer - Associate" src="./AWS-Developer-Associate-2020.png" />][dva]
 <br />
 <br />
 <br />
@@ -39,19 +46,14 @@ As a professional software engineer, since 2014, I have been part of many IT tea
 ---
 
 ### Achievement as Competitve Programmer
-I have solved more than 2000 data structure and algorithm related problems in about 10 different online judges using C++, Java and Golang. I have acted as a problem setter/judge in several programming contests including the National Informatics Olympiad of Bangladesh and worked as a professional trainer in the corresponding area for more than two years at my university.
 
+I have solved more than 2000 data structure and algorithm related problems in about 10 different online judges using C++, Java and Golang. I have acted as a problem setter/judge in several programming contests including the National Informatics Olympiad of Bangladesh and worked as a professional trainer in the corresponding area for more than two years at my university.
 
 [<img align="left" width="100px" height="100px" alt="Visual Studio Code" src="./cf.png" style="margin:5px" />][codeforces]
 
-
 [<img align="left" width="100px" height="100px" alt="Visual Studio Code" src="./tc.png" style="margin:5px" />][topcoder]
 
-
-
 [<img align="left" width="100px" height="100px" alt="Visual Studio Code" src="./uva.png" style="margin:5px" />][uva]
-
-
 
 [<img align="left" width="100px" height="100px" alt="Visual Studio Code" src="./lc.png" style="margin:5px"/>][lc]
 <br/>
@@ -61,26 +63,30 @@ I have solved more than 2000 data structure and algorithm related problems in ab
 <br/>
 
 ---
+
 ### Academic profile
+
 - Bachelor of Science and Engineering - Jahangirnagar University
 - CGPA: 3.18/4.00
 - Worked as `Teaching Assistance` from Feb,2011 - Jun,2013
 
 ---
+
 ### English Profiecieny
+
 - Score : 7.00 , CEFR Level - C1 , Mode - Acedmic , Date - 28 September, 2019
 
 ---
+
 ### Connect with me
+
 [<img align="left" width="100px" height="100px" alt="Visual Studio Code" src="./linkedin.png" style="margin:5px"/>][linkedin]
 
 [<img align="left" width="100px" height="100px" alt="Visual Studio Code" src="./whatsapp.png" style="margin:5px"/>][wa]
 
-
 [<img align="left" width="100px" height="100px" alt="Visual Studio Code" src="./email.png" style="margin:5px"/>][email]
 
 [<img align="left" width="100px" height="100px" alt="Visual Studio Code" src="./twitter.png" style="margin:5px"/>][twitter]
-
 
 [<img align="left" width="100px" height="100px" alt="Visual Studio Code" src="./youtube.jpg" style="margin:5px"/>][youtube]
 
@@ -91,6 +97,7 @@ I have solved more than 2000 data structure and algorithm related problems in ab
 <br/>
 
 ---
+
 ### Want to play a game of chess with me?
 
 [<img align="left" width="100px" height="100px" alt="Visual Studio Code" src="./chesdotcom.png" style="margin:5px"/>][chessdotcom]
@@ -99,9 +106,10 @@ I have solved more than 2000 data structure and algorithm related problems in ab
 
 [acp]: https://www.credly.com/badges/b1282f55-c316-4e7a-bed1-25a7ee6dab79/public_url
 [saa]: https://www.credly.com/badges/6fb754a4-c4f3-41f3-922e-7698e0d3feb7/public_url
+[dva]: https://www.credly.com/badges/3dd8c804-9037-4c5c-9663-de7a40d10846/public_url
 [codeforces]: https://codeforces.com/profile/najim4689
 [topcoder]: https://www.topcoder.com/members/paranoid.soul
-[uva]: https://uhunt.onlinejudge.org/id/72332 
+[uva]: https://uhunt.onlinejudge.org/id/72332
 [lc]: https://leetcode.com/najim/
 [wa]: https://wa.me/8801711927949
 [linkedin]: https://www.linkedin.com/in/najim-ahmed-32544b77/

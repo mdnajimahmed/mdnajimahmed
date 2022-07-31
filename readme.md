@@ -4,8 +4,7 @@
 
 ### Career Overview
 
-As a professional software engineer, since 2014, I have been part of many IT teams, played various roles and worked with a diverse set of technologies like Spring Cloud, AWS, PostgreSQL, MySQL, MongoDB, Redis, RabbitMQ, Websocket, ASP.NET Web API, ReactJS, AngularJS 1.x etc. My primary area of expertise is to develop line-of-business transactional applications for workflow automation. Technically, I am more into the backend(System design, DevOps, Data analysis etc) than the front end.
-
+As a professional software engineer, since 2014, I have been part of many IT/SWE teams, played various technical roles such as Full-Stack Engineer, Back-End Engineer, Tech-Lead etc which have led me to work with a diverse set of technologies such as Spring Cloud, AWS, PostgreSQL, MySQL, MongoDB, Redis, RabbitMQ, Websocket, ASP.NET Web API, ReactJS, AngularJS 1.x etc. Besides my year-long industry experience-driven strong SWE/DevOps skills, as a former Competetive-Programmer/Problem-Setter/Judge I also have profound expertise in DSA.
 ---
 
 ### Programming Languages
@@ -13,7 +12,7 @@ As a professional software engineer, since 2014, I have been part of many IT tea
 - Java (Primary - Using at job since 2018)
 - Golang (Secondary/Hobby - Using at my personal projects since 2021)
 - Python (Occassionally using it at job since 2020)
-- JavaScript (Used between years 2014-2019 for front end development at job)
+- JavaScript (Used heavily between years 2014-2019 for front end development at job, Using occassionaly at job since 2019)
 - C# (Used between years 2014-2017 at job)
 - C++ (Used between years 2009-2015 as hobby/competitive programming)
 
@@ -36,6 +35,7 @@ As a professional software engineer, since 2014, I have been part of many IT tea
 [<img align="left" width="100px"  alt="Visual Studio Code" src="./AWS-SolArchitect-Associate-2020.png" />][saa]
 
 [<img align="left" width="100px"  alt="AWS Certified Developer - Associate" src="./AWS-Developer-Associate-2020.png" />][dva]
+[<img align="left" width="100px"  alt="AWS Certified Developer - Associate" src="./aws-certified-sysops-administrator-associate" />][soa]
 <br />
 <br />
 <br />

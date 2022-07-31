@@ -14,8 +14,8 @@ As a professional software engineer, since 2014, I have been part of many IT/SWE
 
 - Java (Primary - Using at job since 2018)
 - Golang (Secondary/Hobby - Using at my personal projects since 2021)
-- Python (Occassionally using it at job since 2020)
-- JavaScript (Used heavily between years 2014-2019 for front end development at job, Using occassionaly at job since 2019)
+- Python (Occasionally using it at job since 2020)
+- JavaScript (Used heavily between years 2014-2019 for front end development at job, Using occasionally at job since 2020)
 - C# (Used between years 2014-2017 at job)
 - C++ (Used between years 2009-2015 as hobby/competitive programming)
 
@@ -78,7 +78,7 @@ I have solved more than 2000 data structure and algorithm related problems in ab
 
 ---
 
-- Score : 7.00 , CEFR Level - C1 , Mode - Acedmic , Date - 28 September, 2019
+- Score : 7.00 , CEFR Level - C1 , Mode - Academic , Date - 28 September, 2019
 
 ### Connect with me
 

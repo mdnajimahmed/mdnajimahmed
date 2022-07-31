@@ -6,7 +6,7 @@
 
 ---
 
-As a professional software engineer, since 2014, I have been part of many IT/SWE teams, played various technical roles such as Full-Stack Engineer, Back-End Engineer, Tech-Lead etc which have led me to work with a diverse set of technologies such as Spring Cloud, AWS, PostgreSQL, MySQL, MongoDB, Redis, RabbitMQ, Websocket, ASP.NET Web API, ReactJS, AngularJS 1.x etc. Besides my year-long industry experience-driven strong SWE/DevOps skills, as a former Competetive-Programmer/Problem-Setter/Judge I also have profound expertise in DSA.
+As a professional software engineer, since 2014, I have been part of many IT/SWE teams, played various technical roles such as Full-Stack Engineer, Back-End Engineer, Tech-Lead etc which have led me to work with a diverse set of tools & technologies such as Spring Cloud, AWS, PostgreSQL, MySQL, MongoDB, Redis, RabbitMQ, Websocket, ASP.NET Web API, ReactJS, AngularJS 1.x etc. Besides my year-long industry experience-driven strong SWE/DevOps skills, as a former Competetive-Programmer/Problem-Setter/Judge I also have profound expertise in DSA.
 
 ### Programming Languages
 

@@ -76,7 +76,7 @@ I have solved more than 2000 data structure and algorithm related problems in ab
 - CGPA: 3.18/4.00
 - Worked as `Teaching Assistance` from Feb,2011 - Jun,2013
 
-### English Profiecieny
+### English Proficiency
 
 ---
 

@@ -4,16 +4,17 @@
 #### Who I am?
 - Tech Lead at  **[PETRONAS ICT SDN BHD](https://en.wikipedia.org/wiki/Petronas), [Malaysia](https://en.wikipedia.org/wiki/Kuala_Lumpur).** 
 - Have 8 years of hands-on experience in **software development, team management,** and **tech consultancy.**
-- Developed products for **Oil and Gas Industry, News Media industry, IOT & AI based startups** .
 - Specialized in builing **Spring Framework, REST API, AWS, Servereless Framework and Single Page App Development**.
+- Developed products for **Oil and Gas Industry, News Media industry, IOT & AI based startups** .
 - Veteran **competitive programmer** with 6+ years history of participating in national and international online/onsite programming contests and 3+ years experience as **trainer and judge**.
-- CEFR Level - C1 English user (IELTS Mode - Academic , Date - 28 September, 2019) 
+- CEFR Level - C1 English user (IELTS Mode - Academic , Score - 7.00, Date - 28 September, 2019) 
+- Enjoy taking certification exams to learn new technology and validate my skill.
+
 #### What I'm doing?
-- 🏢 Leading and mentoring a team of 8 engineers at  **[PETRONAS ICT SDN BHD](https://en.wikipedia.org/wiki/Petronas)**.
+- 🏢 Leading and mentoring a team of 8 engineers to develop a single page application using Spring and ReactJS on AWS.
 - 🎩 Responsible for deciding technology choices , ensuring code quality and adopting devops best practices e.g CICD, IAC etc. 
 - 👨‍💻 Contributing to development using `Java Spring`, `PostgreSQL`, `Golang`, `ReactJS`.
-- 📚 Currently learning about **kubernetes**.
-
+- 📚 Learning about **kubernetes** while preparing for the CKAD exam.
 
 
 #### What I like to disscuss about? 
@@ -66,10 +67,6 @@
 <img style="height: auto; width: 50%;" class="img" src="https://activity-graph.herokuapp.com/graph?username=mdnajimahmed&custom_title=7oSkaaa's%20Contribution%20Graph&theme=react-dark" /></div>
 </div>
 
-
-<!-- <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mdnajimahmed&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="mdnajimahmed" />
-<br/>
-<img alt="Najims's Activity Graph" height="180em" src="https://activity-graph.herokuapp.com/graph?username=mdnajimahmed&custom_title=7oSkaaa's%20Contribution%20Graph&theme=react-dark" /> -->
 
 <img src="https://github-profile-trophy.vercel.app/?username=mdnajimahmed&layout=compact&theme=algolia" alt="mdnajimahmed" />
 

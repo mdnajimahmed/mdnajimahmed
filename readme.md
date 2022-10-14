@@ -41,13 +41,11 @@
 <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnajimahmed&theme=tokyonight&langs_count=8&layout=compact" /></div>
 </div>
 
-<div class='container'>
-<img style="height: auto; width: 45%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=mdnajimahmed&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" />
-<img style="height: auto; width: 50%;" class="img" src="https://activity-graph.herokuapp.com/graph?username=mdnajimahmed&custom_title=7oSkaaa's%20Contribution%20Graph&theme=react-dark" /></div>
-</div>
+<img style="height: auto; width: 98%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=mdnajimahmed&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" />
 
+<img style="height: auto; width: 98%;" class="img" src="https://activity-graph.herokuapp.com/graph?username=mdnajimahmed&custom_title=7oSkaaa's%20Contribution%20Graph&theme=react-dark" /></div>
 
-<img src="https://github-profile-trophy.vercel.app/?username=mdnajimahmed&layout=compact&theme=algolia" alt="mdnajimahmed" />
+<img style="height: auto; width: 98%;" class="img" src="https://github-profile-trophy.vercel.app/?username=mdnajimahmed&layout=compact&theme=algolia" alt="mdnajimahmed" />
 
 #### Wanna take a tour at Resume?
 - [Resume__Md Najim Ahmed.pdf](https://drive.google.com/file/d/13X-oPu-QogGBYY6Sva4qLWfZ9nKAoCl3/view?usp=sharing)

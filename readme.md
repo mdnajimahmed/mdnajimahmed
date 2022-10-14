@@ -53,7 +53,7 @@
 
 
 
-#### Intested to see my github contribution?
+#### Interested in seeing my github contribution?
 
 <img alt="Najims's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mdnajimahmed&custom_title=7oSkaaa's%20Contribution%20Graph&theme=react-dark" />
 

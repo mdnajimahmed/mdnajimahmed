@@ -34,6 +34,7 @@
 
 #### Wanna take a tour at Resume?
 - [Resume__Md Najim Ahmed.pdf](https://drive.google.com/file/d/13X-oPu-QogGBYY6Sva4qLWfZ9nKAoCl3/view?usp=sharing)
+
 #### Interested in my Academic/Professional Credentials?
 [<img align="left" width="100px"  alt="Visual Studio Code" src="./AWS-CloudPractitioner-2020.png" />][acp]
 
@@ -44,6 +45,24 @@
 [<img align="left" width="100px"  alt="AWS Certified SysOps - Associate" src="./aws-certified-sysops-administrator-associate.png" />][soa]
 
 [<img align="left" width="100px"  alt="BSC, Computer Science and Engineering" src="./ju.png" />][ju]
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+#### Interested in my competitive programming achievements?
+
+[<img align="left" width="100px" height="100px" alt="Visual Studio Code" src="./cf.png" style="margin:5px" />][codeforces]
+
+[<img align="left" width="100px" height="100px" alt="Visual Studio Code" src="./tc.png" style="margin:5px" />][topcoder]
+
+[<img align="left" width="100px" height="100px" alt="Visual Studio Code" src="./uva.png" style="margin:5px" />][uva]
+
+[<img align="left" width="100px" height="100px" alt="Visual Studio Code" src="./lc.png" style="margin:5px"/>][lc]
+
 
 <br />
 <br />
@@ -74,7 +93,7 @@
 #### How to get in touch with me?
 <p left="center">
 
-<a href="https://www.linkedin.com/in/najim-ahmed-32544b77/">
+<a href="https://www.linkedin.com/in/md-najim-ahmed-32544b77/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 </a> 
 <a href="https://wa.me/8801711927949">

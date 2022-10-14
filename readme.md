@@ -32,26 +32,26 @@
   - **🗂 CI/CD:** • [Azure Pipelines](https://azure.microsoft.com/en-us/services/devops/pipelines/) • [Github Actions](https://github.com/features/actions) 
 
 
+
+#### Interested in seeing my github contribution?
+<div class='container'>
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=mdnajimahmed&show_icons=true&theme=tokyonight" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnajimahmed&theme=tokyonight&langs_count=8&layout=compact" /></div>
+</div>
+
+<div class='container'>
+<img style="height: auto; width: 45%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=mdnajimahmed&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" />
+<img style="height: auto; width: 50%;" class="img" src="https://activity-graph.herokuapp.com/graph?username=mdnajimahmed&custom_title=7oSkaaa's%20Contribution%20Graph&theme=react-dark" /></div>
+</div>
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=mdnajimahmed&layout=compact&theme=algolia" alt="mdnajimahmed" />
+
 #### Wanna take a tour at Resume?
 - [Resume__Md Najim Ahmed.pdf](https://drive.google.com/file/d/13X-oPu-QogGBYY6Sva4qLWfZ9nKAoCl3/view?usp=sharing)
 
-#### Interested in my Academic/Professional Credentials?
-[<img align="left" width="100px"  alt="Visual Studio Code" src="./AWS-CloudPractitioner-2020.png" />][acp]
-
-[<img align="left" width="100px"  alt="Visual Studio Code" src="./AWS-SolArchitect-Associate-2020.png" />][saa]
-
-[<img align="left" width="100px"  alt="AWS Certified Developer - Associate" src="./AWS-Developer-Associate-2020.png" />][dva]
-
-[<img align="left" width="100px"  alt="AWS Certified SysOps - Associate" src="./aws-certified-sysops-administrator-associate.png" />][soa]
-
-[<img align="left" width="100px"  alt="BSC, Computer Science and Engineering" src="./ju.png" />][ju]
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
 #### Interested in my competitive programming achievements?
 
@@ -71,24 +71,23 @@
 <br />
 <br />
 
+#### Interested in my Academic/Professional Credentials?
+[<img align="left" width="100px"  alt="Visual Studio Code" src="./AWS-CloudPractitioner-2020.png" />][acp]
 
+[<img align="left" width="100px"  alt="Visual Studio Code" src="./AWS-SolArchitect-Associate-2020.png" />][saa]
 
-#### Interested in seeing my github contribution?
-<div class='container'>
-<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=mdnajimahmed&show_icons=true&theme=tokyonight" />
-&nbsp;
-&nbsp;
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnajimahmed&theme=tokyonight&langs_count=8&layout=compact" /></div>
-</div>
+[<img align="left" width="100px"  alt="AWS Certified Developer - Associate" src="./AWS-Developer-Associate-2020.png" />][dva]
 
-<div class='container'>
-<img style="height: auto; width: 45%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=mdnajimahmed&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" />
-<img style="height: auto; width: 50%;" class="img" src="https://activity-graph.herokuapp.com/graph?username=mdnajimahmed&custom_title=7oSkaaa's%20Contribution%20Graph&theme=react-dark" /></div>
-</div>
+[<img align="left" width="100px"  alt="AWS Certified SysOps - Associate" src="./aws-certified-sysops-administrator-associate.png" />][soa]
 
+[<img align="left" width="100px"  alt="BSC, Computer Science and Engineering" src="./ju.png" />][ju]
 
-<img src="https://github-profile-trophy.vercel.app/?username=mdnajimahmed&layout=compact&theme=algolia" alt="mdnajimahmed" />
-
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 #### How to get in touch with me?
 <p left="center">

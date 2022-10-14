@@ -43,7 +43,7 @@
 
 <img style="height: auto; width: 98%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=mdnajimahmed&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" />
 
-<img style="height: auto; width: 98%;" class="img" src="https://activity-graph.herokuapp.com/graph?username=mdnajimahmed&custom_title=7oSkaaa's%20Contribution%20Graph&theme=react-dark" /></div>
+<img style="height: auto; width: 98%;" class="img" src="https://activity-graph.herokuapp.com/graph?username=mdnajimahmed&custom_title=mdnajimahmed's%20Contribution%20Graph&theme=react-dark" /></div>
 
 <img style="height: auto; width: 98%;" class="img" src="https://github-profile-trophy.vercel.app/?username=mdnajimahmed&layout=compact&theme=algolia" alt="mdnajimahmed" />
 

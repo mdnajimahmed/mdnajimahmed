@@ -54,19 +54,25 @@
 
 
 #### Interested in seeing my github contribution?
+<div class='container'>
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=mdnajimahmed&show_icons=true&theme=tokyonight" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnajimahmed&theme=tokyonight&langs_count=8&layout=compact" /></div>
+</div>
 
-<img alt="Najims's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mdnajimahmed&custom_title=7oSkaaa's%20Contribution%20Graph&theme=react-dark" />
+<div class='container'>
+<img style="height: auto; width: 45%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=mdnajimahmed&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" />
+<img style="height: auto; width: 50%;" class="img" src="https://activity-graph.herokuapp.com/graph?username=mdnajimahmed&custom_title=7oSkaaa's%20Contribution%20Graph&theme=react-dark" /></div>
+</div>
+
+
+<!-- <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mdnajimahmed&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="mdnajimahmed" />
+<br/>
+<img alt="Najims's Activity Graph" height="180em" src="https://activity-graph.herokuapp.com/graph?username=mdnajimahmed&custom_title=7oSkaaa's%20Contribution%20Graph&theme=react-dark" /> -->
 
 <img src="https://github-profile-trophy.vercel.app/?username=mdnajimahmed&layout=compact&theme=algolia" alt="mdnajimahmed" />
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mdnajimahmed&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdnajimahmed&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="mdnajimahmed" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnajimahmed&theme=tokyonight" alt="mdnajimahmed" />
-
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</p>
 
 #### How to get in touch with me?
 <p left="center">

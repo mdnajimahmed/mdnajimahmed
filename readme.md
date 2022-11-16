@@ -69,15 +69,12 @@
 <br />
 <br />
 
-#### Interested in my Academic/Professional Credentials?
-[<img align="left" width="100px"  alt="Visual Studio Code" src="./AWS-CloudPractitioner-2020.png" />][acp]
-
-[<img align="left" width="100px"  alt="Visual Studio Code" src="./AWS-SolArchitect-Associate-2020.png" />][saa]
-
-[<img align="left" width="100px"  alt="AWS Certified Developer - Associate" src="./AWS-Developer-Associate-2020.png" />][dva]
-
+#### Interested in my Trainings & Certifications?
+[<img align="left" width="100px"  alt="CKAD: Certified Kubernetes Application Developer" src="./ckad_from_cncfsite.png" />][ckad]
 [<img align="left" width="100px"  alt="AWS Certified SysOps - Associate" src="./aws-certified-sysops-administrator-associate.png" />][soa]
-
+[<img align="left" width="100px"  alt="AWS Certified Developer - Associate" src="./AWS-Developer-Associate-2020.png" />][dva]
+[<img align="left" width="100px"  alt="Visual Studio Code" src="./AWS-SolArchitect-Associate-2020.png" />][saa]
+[<img align="left" width="100px"  alt="Visual Studio Code" src="./AWS-CloudPractitioner-2020.png" />][acp]
 [<img align="left" width="100px"  alt="BSC, Computer Science and Engineering" src="./ju.png" />][ju]
 
 <br />
@@ -123,3 +120,4 @@
 [lichess]: https://lichess.org/@/najim4689
 [chessdotcom]: https://www.chess.com/member/najimahmed4689
 [ju]: https://www.credly.com/badges/f61261e6-cdc0-4781-98ae-0a74939e6509/public_url
+[ckad]: https://www.credly.com/badges/0dc3fc02-71be-47d1-acb1-be23d1beef42/public_url

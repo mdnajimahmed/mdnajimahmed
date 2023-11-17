@@ -24,7 +24,7 @@
   - **📜 Languages:** • `🌵 Java` • `🍉 Golang` • `🍎 Python` • `🍓 C#` • `🍇 JavaScript`
   - **🔭 Frameworks:** • `🌱 Spring` • `🌴 Serverless` • `🌷 Pandas` • `🌻 Gin-Gonic`
   - **💾 Databases:** • 🍦 PostgreSQL • 🍧 MongoDB • 🍨 MySQL
-  🖥 **Front-end:**  🧙🏻‍♂️ `ReactJS` • `👨‍🔧 JavaScript` • `🧚🏻‍♂️ HTML` • `👨🏻‍🎨 CSS`
+- 🖥 **Front-end:**  🧙🏻‍♂️ `ReactJS` • `👨‍🔧 JavaScript` • `🧚🏻‍♂️ HTML` • `👨🏻‍🎨 CSS`
 - 🎡 **Software development ecosystem:**
   - **📁 Code repository:** • [Git](https://git-scm.com/) • [BitBucket](https://bitbucket.org/product) • [Azure DevOps Server](https://azure.microsoft.com/en-us/services/devops/server/)
   - **🗃 Project management:** • [Jira Scrum Boards](https://www.atlassian.com/software/jira/features/scrum-boards) • [Azure Boards](https://azure.microsoft.com/en-us/services/devops/boards/)

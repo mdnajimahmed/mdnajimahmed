@@ -2,8 +2,8 @@
 
 
 #### Who I am?
-- Tech Lead at  **[PETRONAS ICT SDN BHD](https://en.wikipedia.org/wiki/Petronas), [Malaysia](https://en.wikipedia.org/wiki/Kuala_Lumpur).** 
-- Have 8 years of hands-on experience in **software development, team management,** and **tech consultancy.**
+- Executive (Software Engineering) at  **[PETRONAS ICT SDN BHD](https://en.wikipedia.org/wiki/Petronas), [Malaysia](https://en.wikipedia.org/wiki/Kuala_Lumpur).** 
+- Have 9 years of hands-on experience in **backend development, team management,** and **tech consultancy.**
 - Specialized in builing **Spring Framework, REST API, AWS, Servereless Framework and Single Page App Development**.
 - Developed products for **Oil and Gas Industry, News Media industry, IOT & AI based startups** .
 - Veteran **competitive programmer** with 6+ years history of participating in national and international online/onsite programming contests and 3+ years experience as **trainer and judge**.

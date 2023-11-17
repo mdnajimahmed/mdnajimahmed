@@ -3,7 +3,7 @@
 
 #### Who I am?
 - Executive (Software Engineering) at  **[PETRONAS ICT SDN BHD](https://en.wikipedia.org/wiki/Petronas), [Malaysia](https://en.wikipedia.org/wiki/Kuala_Lumpur).** 
-- Have 9 years of hands-on experience in **backend development, team management,** and **tech consultancy.**
+- Have 9+ years of hands-on experience in **backend development, team management,** and **tech consultancy.**
 - Specialized in builing **Spring Framework, REST API, AWS, Servereless Framework and Single Page App Development**.
 - Developed products for **Oil and Gas Industry, News Media industry, IOT & AI based startups** .
 - Veteran **competitive programmer** with 6+ years history of participating in national and international online/onsite programming contests and 3+ years experience as **trainer and judge**.
@@ -11,21 +11,20 @@
 - Enjoy taking certification exams to learn new technology and validate my skill.
 
 #### What I'm doing?
-- 🏢 Leading and mentoring a team of 8 engineers to develop a single page application using Spring and ReactJS on AWS.
-- 🎩 Responsible for deciding technology choices , ensuring code quality and adopting devops best practices e.g CICD, IAC etc. 
-- 👨‍💻 Contributing to development using `Java Spring`, `PostgreSQL`, `Golang`, `ReactJS`.
-- 📚 Learning about **kubernetes** while preparing for the CKAD exam.
+- 🏢 Developing high-performing backend applications and leading a team of 7+ engineers on Java, Spring and AWS Stack.
+- 🎩 Responsible for developing the CICD pipeline, and operation of 4+ line-of-business applications.
+- 📚 Mentoring and upskilling engineers by conducting classes and helping them do side projects.
 
 
 #### What I like to disscuss about? 
 - 💬 Ask me about `Spring` ,`Java`, `Golang`, `SWE`, `REST API`, `Serverless`, `System Design`, `Scalability`, `Design Patterns`, `Data Structures` and `Tech Culture`.
 
 #### What my skill set looks like?
-- 🖥 **Front-end:**  🧙🏻‍♂️ `ReactJS` • `👨‍🔧 JavaScript` • `🧚🏻‍♂️ HTML` • `👨🏻‍🎨 CSS`
 - 🗄️ **Back-end:**
   - **📜 Languages:** • `🌵 Java` • `🍉 Golang` • `🍎 Python` • `🍓 C#` • `🍇 JavaScript`
   - **🔭 Frameworks:** • `🌱 Spring` • `🌴 Serverless` • `🌷 Pandas` • `🌻 Gin-Gonic`
   - **💾 Databases:** • 🍦 PostgreSQL • 🍧 MongoDB • 🍨 MySQL
+  🖥 **Front-end:**  🧙🏻‍♂️ `ReactJS` • `👨‍🔧 JavaScript` • `🧚🏻‍♂️ HTML` • `👨🏻‍🎨 CSS`
 - 🎡 **Software development ecosystem:**
   - **📁 Code repository:** • [Git](https://git-scm.com/) • [BitBucket](https://bitbucket.org/product) • [Azure DevOps Server](https://azure.microsoft.com/en-us/services/devops/server/)
   - **🗃 Project management:** • [Jira Scrum Boards](https://www.atlassian.com/software/jira/features/scrum-boards) • [Azure Boards](https://azure.microsoft.com/en-us/services/devops/boards/)

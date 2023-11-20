@@ -1,50 +1,23 @@
-### Hi there 👋!
+I'm a technical problem-solver, experienced in backend engineering using Java, AWS, SQL and NoSQL databases e.g. PostgreSQL, Redis, MongoDB etc. I thrive in the realm of coding excellence, however, my added year-long expertise in DevOps and Cloud Technology elevates my capability to design and operate systems at a large scale. I deeply care about clean code, design patterns and maturity of tests while developing a solution, and for operations, I follow the 12-factor methodology, leverage cloud services, and maintain a robust DevSecOps pipeline with comprehensive testing and security measures having a "shifting left" automation mindset.
 
+I am also an effective team player, I have led more than 20 engineers across 4 different teams and successfully delivered 10+ projects. My biggest achievement as a team lead is to deliver a product on Java, Postgres, Redis and AWS stack that is used by 40,000 employees of a Fortune 500 company with zero downtime and <150ms p95 response time across 40+ APIs and I have successfully secured highly sensitive personal information of the employees in a way that passed Google Madiant Pen Test, AWS Security Audit and the Company's internal CS Audit.
 
-#### Who I am?
-- Executive (Software Engineering) at  **[PETRONAS ICT SDN BHD](https://en.wikipedia.org/wiki/Petronas), [Malaysia](https://en.wikipedia.org/wiki/Kuala_Lumpur).** 
-- Have 9+ years of hands-on experience in **backend development, team management,** and **tech consultancy.**
-- Specialized in builing **Spring Framework, REST API, AWS, Servereless Framework and Single Page App Development**.
-- Developed products for **Oil and Gas Industry, News Media industry, IOT & AI based startups** .
-- Veteran **competitive programmer** with 6+ years history of participating in national and international online/onsite programming contests and 3+ years experience as **trainer and judge**.
-- CEFR Level - C1 English user (IELTS Mode - Academic , Score - 7.00, Date - 28 September, 2019) 
-- Enjoy taking certification exams to learn new technology and validate my skill.
+My primary programming stack is Java and Spring Boot, however, I have also developed solutions on the serverless stack using NodeJS and GoLang. Besides software development, I love to challenge myself to solve algorithmic problems that often require advanced data structures to process a large dataset under strict time constraints. Starting from 2009, I have solved 2000+ problems in 10+ platforms e.g. Topcoder, Codeforces, LeetCode, UVA, URAL, USACO etc and participated in 300+ online competitions and 50+ onsite competitions. You can learn more by following my online profiles below - 
 
-#### What I'm doing?
-- 🏢 Developing high-performing backend applications and leading a team of 7+ engineers on Java, Spring and AWS Stack.
-- 🎩 Responsible for developing the CICD pipeline, and operation of 4+ line-of-business applications.
-- 📚 Mentoring and upskilling engineers by conducting classes and helping them do side projects.
+- https://codeforces.com/profile/najim4689
+- https://leetcode.com/najim/
+- https://profiles.topcoder.com/paranoid.soul
+- https://uhunt.onlinejudge.org/id/72332
 
+I also love continuously educating myself by taking online courses from Udemy and doing Certifications. I am currently 4x AWS certified and Kubernetes Certified Application Developer.
 
-#### What I like to disscuss about? 
-- 💬 Ask me about `Spring` ,`Java`, `Golang`, `SWE`, `REST API`, `Serverless`, `System Design`, `Scalability`, `Design Patterns`, `Data Structures` and `Tech Culture`.
+Occasionally, I do small fun projects to explore new domains e.g IOT/Machine Learning/Big Data. Here are two of my noteworthy projects - 
 
-#### What my skill set looks like?
-- 🗄️ **Back-end:**
-  - **📜 Languages:** • `🌵 Java` • `🍉 Golang` • `🍎 Python` • `🍓 C#` • `🍇 JavaScript`
-  - **🔭 Frameworks:** • `🌱 Spring` • `🌴 Serverless` • `🌷 Pandas` • `🌻 Gin-Gonic`
-  - **💾 Databases:** • 🍦 PostgreSQL • 🍧 MongoDB • 🍨 MySQL
-- 🖥 **Front-end:**  🧙🏻‍♂️ `ReactJS` • `👨‍🔧 JavaScript` • `🧚🏻‍♂️ HTML` • `👨🏻‍🎨 CSS`
-- 🎡 **Software development ecosystem:**
-  - **📁 Code repository:** • [Git](https://git-scm.com/) • [BitBucket](https://bitbucket.org/product) • [Azure DevOps Server](https://azure.microsoft.com/en-us/services/devops/server/)
-  - **🗃 Project management:** • [Jira Scrum Boards](https://www.atlassian.com/software/jira/features/scrum-boards) • [Azure Boards](https://azure.microsoft.com/en-us/services/devops/boards/)
-  - **🗂 CI/CD:** • [Azure Pipelines](https://azure.microsoft.com/en-us/services/devops/pipelines/) • [Github Actions](https://github.com/features/actions) 
+# Detect toilet occupancy in real-time
+https://github.com/mdnajimahmed/ToiletCubicleSystems
 
-
-
-#### Interested in seeing my github contribution?
-<div class='container'>
-<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=mdnajimahmed&show_icons=true&theme=tokyonight" />
-&nbsp;
-&nbsp;
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnajimahmed&theme=tokyonight&langs_count=8&layout=compact" /></div>
-</div>
-
-<img style="height: auto; width: 98%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=mdnajimahmed&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" />
-
-<img style="height: auto; width: 98%;" class="img" src="https://activity-graph.herokuapp.com/graph?username=mdnajimahmed&custom_title=mdnajimahmed's%20Contribution%20Graph&theme=react-dark" /></div>
-
-<img style="height: auto; width: 98%;" class="img" src="https://github-profile-trophy.vercel.app/?username=mdnajimahmed&layout=compact&theme=algolia" alt="mdnajimahmed" />
+# Control an esp8266 IOT Device with voice command
+https://github.com/mdnajimahmed/esp8266-voice-controlled-led
 
 #### Wanna take a tour at Resume?
 - [Resume__Md Najim Ahmed.pdf](https://drive.google.com/file/d/1yfPL-n3U8TfIEX63Ef11H0dfevxL5OeS/view?usp=sharing)

@@ -24,24 +24,6 @@ https://github.com/mdnajimahmed/esp8266-voice-controlled-led
 
 
 
-#### Interested in my competitive programming achievements?
-
-[<img align="left" width="100px" height="100px" alt="Visual Studio Code" src="./cf.png" style="margin:5px" />][codeforces]
-
-[<img align="left" width="100px" height="100px" alt="Visual Studio Code" src="./tc.png" style="margin:5px" />][topcoder]
-
-[<img align="left" width="100px" height="100px" alt="Visual Studio Code" src="./uva.png" style="margin:5px" />][uva]
-
-[<img align="left" width="100px" height="100px" alt="Visual Studio Code" src="./lc.png" style="margin:5px"/>][lc]
-
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
 #### Interested in my Trainings & Certifications?
 [<img align="left" width="100px"  alt="CKAD: Certified Kubernetes Application Developer" src="./ckad_from_cncfsite.png" />][ckad]
 [<img align="left" width="100px"  alt="AWS Certified SysOps - Associate" src="./aws-certified-sysops-administrator-associate.png" />][soa]

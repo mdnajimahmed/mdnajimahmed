@@ -1,4 +1,4 @@
-# Najim Ahmed
+# Md Najim Ahmed
 ### Head of Software Engineering · Malaysia
 
 Engineering leader with 13+ years building systems that scale and teams that ship. I operate at the intersection of architecture, delivery, and people — owning the full stack from org design and technical standards down to the code that runs in production.

@@ -81,4 +81,4 @@ Open to senior engineering leadership conversations
 
 ---
 
-📧 najim.ju@gmail.com · 📞 +60176351672 · [LinkedIn](https://linkedin.com)
+📧 najim.ju@gmail.com · 📞 +60176351672 · [LinkedIn](https://www.linkedin.com/in/najim-ahmed-32544b77/)
